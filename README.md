@@ -125,6 +125,11 @@ For our use today, we'll install the "Sentinel One" solution from the Sentinel C
 1. Select the "SentinelOne" solution
 1. In the right details pane, click "Install"
 
+> [!NOTE]
+> Microsoft Sentinel is moving to the Microsoft Defender portal. See [Planning your move to Microsoft Defender portal](https://techcommunity.microsoft.com/blog/microsoft-security-blog/planning-your-move-to-microsoft-defender-portal-for-all-microsoft-sentinel-custo/4428613). 
+> When accessing Content Hub from the Azure Portal, you may see a message redirecting you to the 
+> [Defender Portal](https://security.microsoft.com/). If this happens, please install the solution from there. 
+
 ### Connect a data connector
 
 ![screen-connect-connector](./docs/images/screen-connect-connector.jpeg)
